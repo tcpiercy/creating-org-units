@@ -1,5 +1,7 @@
 <p align="center">
-![Active Directory](https://github.com/tcpiercy/creating-org-units/blob/master/active%20directory%20snip.png?raw=true)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tcpiercy/creating-org-units/main/active%20directory%20snip.png" width="400">
+</p>
   <h1>osTicket - Post-Install Configuration</h1>
 This tutorial outlines the creation of Org Units within Active Directory.<br />
 
