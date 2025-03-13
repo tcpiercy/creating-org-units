@@ -25,6 +25,7 @@ This tutorial outlines the creation of Org Units within Active Directory.<br />
 <a href="https://www.youtube.com/watch?v=bTMG993DjBA" target="_blank">
   <img src="https://raw.githubusercontent.com/tcpiercy/ping-linux-machine-azure/main/image.png" width="400">
 </a>
+
 In this clip, I created Org Units in Active Directory within a Virtual Machine. I named one _EMPLOYEES and one _ADMINS. To be continued in next repsitory.
 </p>
 <br />
