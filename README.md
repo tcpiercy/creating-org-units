@@ -23,7 +23,7 @@ This tutorial outlines the creation of Org Units within Active Directory.<br />
 <h2>Configuration Steps</h2>
 
 <a href="https://www.youtube.com/watch?v=bTMG993DjBA" target="_blank">
-  <img src="https://raw.githubusercontent.com/tcpiercy/creating-org-units/main/active%20directory%20screen%20snip.png" width="400">
+  <img src="https://raw.githubusercontent.com/tcpiercy/creating-org-units/main/active_directory_with_blue_play_button.png" width="400">
 </a>
 
 In this clip, I created Org Units in Active Directory within a Virtual Machine. I named one _EMPLOYEES and one _ADMINS. To be continued in next repsitory.
